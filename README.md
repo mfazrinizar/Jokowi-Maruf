@@ -11,8 +11,8 @@ Cara Menjalankan :
 - apt-get install perl
 - apt-get install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/Program-Matematika
-- cd Program-Matematika
+- git clone https://github.com/Anon6372098/Jokowi-Maruf
+- cd Jokowi-Maruf
 - perl namaprogram.pl
 
 atau
@@ -20,8 +20,8 @@ atau
 - sudo apt-get install perl
 - sudo apt-get install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/Program-Matematika
-- cd Program-Matematika
+- git clone https://github.com/Anon6372098/Jokowi-Maruf
+- cd Jokowi-Maruf
 - perl namaprogram.pl
 
 ### Windows (CMDer)
@@ -30,8 +30,8 @@ atau
 - choco install perl
 - choco install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/Program-Matematika
-- cd Program-Matematika
+- git clone https://github.com/Anon6372098/Jokowi-Maruf
+- cd Jokowi-Maruf
 - perl namaprogram.pl
 
 ### Android (Termux)
@@ -40,6 +40,6 @@ atau
 - pkg install perl
 - pkg install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/Program-Matematika
-- cd Program-Matematika
+- git clone https://github.com/Anon6372098/Jokowi-Maruf
+- cd Jokowi-Maruf
 - perl namaprogram.pl
