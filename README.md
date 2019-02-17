@@ -13,7 +13,7 @@ Cara Menjalankan :
 - cpan install Term::ANSIScreen
 - git clone https://github.com/Anon6372098/Jokowi-Maruf
 - cd Jokowi-Maruf
-- perl namaprogram.pl
+- perl Jokowi-Maruf.pl
 
 atau
 
@@ -22,7 +22,7 @@ atau
 - cpan install Term::ANSIScreen
 - git clone https://github.com/Anon6372098/Jokowi-Maruf
 - cd Jokowi-Maruf
-- perl namaprogram.pl
+- perl Jokowi-Maruf.pl
 
 ### Windows (CMDer)
 
@@ -32,7 +32,7 @@ atau
 - cpan install Term::ANSIScreen
 - git clone https://github.com/Anon6372098/Jokowi-Maruf
 - cd Jokowi-Maruf
-- perl namaprogram.pl
+- perl Jokowi-Maruf.pl
 
 ### Android (Termux)
 
@@ -42,4 +42,4 @@ atau
 - cpan install Term::ANSIScreen
 - git clone https://github.com/Anon6372098/Jokowi-Maruf
 - cd Jokowi-Maruf
-- perl namaprogram.pl
+- perl Jokowi-Maruf.pl
